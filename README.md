@@ -20,7 +20,7 @@ A játék menete:
 5. A játék első szintjén feladat elkapni Firefox-ot a Windows XP alap hátterén.  
    Ha ez sikerül és elég ideig tartjuk lefogva, akkor átváltozik Safarivá.  
 6. Safari, háttere megjelenése után azonnal támadásba lendül, és elkerülhetetlen, hogy célba érjen.  
-   Meg kell várni, amíg kicrashel és eltűnik.  
+   Meg kell várni, amíg "kicrashel" és eltűnik.  
 7. Safarit Internet Explorer követi egy DOS háttérrel, aki rövid gondolkodás után feladja a harcot.  
 8. Az utolsó helyszín egy felhők közti hely, ahol Tux élvezheti a kiharcolt békét.  
 
@@ -32,9 +32,9 @@ Képek:
 ![End_scene](https://raw.githubusercontent.com/Petmarkocska/Programozasi-nyelvek-1-scratch-projekt/main/End_scene.jpg)
 
 További megjegyzések:
-- A játék **Scratch 3.0 kompatibilis.
-- A játék tartalmaz **hanghatásokat és animációkat.
-- Készítés során változók, ciklusok és feltételek** kerültek felhasználásra a célkitűzések szerint.
+- A játék Scratch 3.0 kompatibilis.
+- A játék tartalmaz hanghatásokat és animációkat.
+- Készítés során változók, ciklusok és feltételek kerültek felhasználásra a célkitűzések szerint.
 
 Kapcsolat:
 - petermarkust@mailbox.unideb.hu
