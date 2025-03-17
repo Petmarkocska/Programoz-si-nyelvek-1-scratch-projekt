@@ -24,7 +24,9 @@ A játék menete:
 
 
 Képek:
+
 https://raw.githubusercontent.com/Petmarkocska/Programozasi-nyelvek-1-scratch-projekt/refs/heads/main/Firefox.jpg
+
 További megjegyzések:
 - A játék **Scratch 3.0 kompatibilis.
 - A játék tartalmaz **hanghatásokat és animációkat.
