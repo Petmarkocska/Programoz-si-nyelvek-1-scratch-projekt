@@ -27,6 +27,8 @@ A játék menete:
 
 Képek:
 
+![End_scene](https://raw.githubusercontent.com/Petmarkocska/Programozasi-nyelvek-1-scratch-projekt/main/End_scene.jpg)
+
 ![Firefox harc](https://raw.githubusercontent.com/Petmarkocska/Programozasi-nyelvek-1-scratch-projekt/main/Firefox.jpg)
 
 További megjegyzések:
