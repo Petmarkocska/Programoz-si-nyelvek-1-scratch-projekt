@@ -12,12 +12,16 @@ Hogyan használd:
 4. Indítsd el a játékot!
 
 A játék menete:
-5. A játék első szintjén feladat elkapni Firefox-ot a Windows XP alap hátterén, ha ez sikerül és elég ideig tartjuk lefogva akkor átváltozik Safarivá.
-6. Safari, háttere megjelenése után azonnal támadásba lendül és elkerülhetetlen, hogy célbaérjen. meg kell várni amíg kicrashel és eltűnik.
-7. Safarit Internet Explorer követi egy DOS háttérrel, aki rövid gondolkodás után feladja a harcot.
-8. Az utolsó helyszín egy felhők közti hely, ahol Tux élvezheti a kiharcolt békét.
+5. A játék első szintjén feladat elkapni Firefox-ot a Windows XP alap hátterén.  
+   Ha ez sikerül és elég ideig tartjuk lefogva, akkor átváltozik Safarivá.  
+6. Safari, háttere megjelenése után azonnal támadásba lendül, és elkerülhetetlen, hogy célba érjen.  
+   Meg kell várni, amíg kicrashel és eltűnik.  
+7. Safarit Internet Explorer követi egy DOS háttérrel, aki rövid gondolkodás után feladja a harcot.  
+8. Az utolsó helyszín egy felhők közti hely, ahol Tux élvezheti a kiharcolt békét.  
 
 
+Képek:
+https://raw.githubusercontent.com/Petmarkocska/Programozasi-nyelvek-1-scratch-projekt/refs/heads/main/Firefox.jpg
 További megjegyzések:
 - A játék **Scratch 3.0 kompatibilis.
 - A játék tartalmaz **hanghatásokat és animációkat.
