@@ -8,4 +8,20 @@ Ez egy scratchben készült játék/interaktív történet, amelyben a játékos
 Hogyan használd:
 1. nyisd meg a scratch weboldalát [https://scratch.mit.edu](https://scratch.mit.edu/)
 2. Importáld a projektet
-![image](https://github.com/user-attachments/assets/0859f220-fac0-44b4-90c9-73e1e31321b7)
+3. Töltsd le a "Tux fantasztikus kalandjai - Márkus Péter Scratch projekt.sb3" file-t
+4. Indítsd el a játékot!
+
+A játék menete:
+5. A játék első szintjén feladat elkapni Firefox-ot a Windows XP alap hátterén, ha ez sikerül és elég ideig tartjuk lefogva akkor átváltozik Safarivá.
+6. Safari, háttere megjelenése után azonnal támadásba lendül és elkerülhetetlen, hogy célbaérjen. meg kell várni amíg kicrashel és eltűnik.
+7. Safarit Internet Explorer követi egy DOS háttérrel, aki rövid gondolkodás után feladja a harcot.
+8. Az utolsó helyszín egy felhők közti hely, ahol Tux élvezheti a kiharcolt békét.
+
+
+További megjegyzések:
+- A játék **Scratch 3.0 kompatibilis.
+- A játék tartalmaz **hanghatásokat és animációkat.
+- Készítés során változók, ciklusok és feltételek** kerültek felhasználásra a célkitűzések szerint.
+
+Kapcsolat:
+- petermarkust@mailbox.unideb.hu
