@@ -11,7 +11,7 @@ Hogyan használd:
 
 1. nyisd meg a scratch weboldalát [https://scratch.mit.edu](https://scratch.mit.edu/)
 2. Importáld a projektet
-   https://raw.githubusercontent.com/Petmarkocska/Programozasi-nyelvek-1-scratch-projekt/refs/heads/main/scratch_import.jpg
+   ![Scratch_import](https://raw.githubusercontent.com/Petmarkocska/Programozasi-nyelvek-1-scratch-projekt/refs/heads/main/scratch_import.jpg)
 4. Töltsd le a "Tux fantasztikus kalandjai - Márkus Péter Scratch projekt.sb3" file-t
 5. Indítsd el a játékot!
 
