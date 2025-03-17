@@ -6,12 +6,15 @@ Leírás:
 Ez egy scratchben készült játék/interaktív történet, amelyben a játékosoknak Tux pingvin képében kell különböző böngészőkkel megkűzdenie. A játékban felbukkan több jól ismert popkultúrális alak, mint például a firefox fokozva a játékélményt. A projekt két legfőbb célja a programozási ismereteim elmélyítése és a játékosok szórakoztatása volt.
 
 Hogyan használd:
+
 1. nyisd meg a scratch weboldalát [https://scratch.mit.edu](https://scratch.mit.edu/)
 2. Importáld a projektet
-3. Töltsd le a "Tux fantasztikus kalandjai - Márkus Péter Scratch projekt.sb3" file-t
-4. Indítsd el a játékot!
+   https://raw.githubusercontent.com/Petmarkocska/Programozasi-nyelvek-1-scratch-projekt/refs/heads/main/scratch_import.jpg
+4. Töltsd le a "Tux fantasztikus kalandjai - Márkus Péter Scratch projekt.sb3" file-t
+5. Indítsd el a játékot!
 
 A játék menete:
+
 5. A játék első szintjén feladat elkapni Firefox-ot a Windows XP alap hátterén.  
    Ha ez sikerül és elég ideig tartjuk lefogva, akkor átváltozik Safarivá.  
 6. Safari, háttere megjelenése után azonnal támadásba lendül, és elkerülhetetlen, hogy célba érjen.  
