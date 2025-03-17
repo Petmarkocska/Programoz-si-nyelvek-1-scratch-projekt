@@ -1,5 +1,7 @@
 Készítette: Márkus Péter Tamás
+
 Tárgy: Programozási nyelvek 1
+
 Projekt típusa: Scratch interaktív történet
 
 Leírás:
